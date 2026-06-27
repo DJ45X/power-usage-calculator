@@ -52,8 +52,8 @@ A **Calculate** button runs the math and a **Clear** button resets the fields.
 
 ## Screenshot
 
-<!-- Replace the line below with your screenshot, e.g. ![Screenshot](screenshot.png) -->
-_Screenshot goes here._
+<img width="1024" height="1328" alt="image" src="https://github.com/user-attachments/assets/81ae099f-4f23-49ae-8c2e-af29f7cd7279" />
+
 
 ## Requirements
 
